@@ -43,7 +43,7 @@
 4. 配置地址填：
 
 ```
-https://raw.githubusercontent.com/你的用户名/你的仓库名/main/dist/单仓精选.json
+https://raw.githubusercontent.com/lngscym/tvbox/main/dist/单仓精选.json
 ```
 
 多仓地址把文件名换成 `多仓订阅.json`。国内直连 raw 慢的话，前面加 `https://gh-proxy.com/` 前缀。
