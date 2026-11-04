@@ -1,0 +1,32 @@
+{
+ "urls": [
+  {
+   "name": "老刘备",
+   "url": "https://raw.liucn.cc/box/m.json"
+  },
+  {
+   "name": "小马",
+   "url": "https://szyyds.cn/tv/x.json"
+  },
+  {
+   "name": "小盒子单仓",
+   "url": "http://xhztv.top/xhz"
+  },
+  {
+   "name": "4K小盒子",
+   "url": "http://xhztv.top/4k.json"
+  },
+  {
+   "name": "王二小",
+   "url": "https://9280.kstore.vip/newwex.json"
+  },
+  {
+   "name": "拾光多仓",
+   "url": "http://xmbjm.fh4u.org/dc.txt"
+  },
+  {
+   "name": "挺好分享多仓",
+   "url": "http://ztha.top/TVBox/GYCK.json"
+  }
+ ]
+}
