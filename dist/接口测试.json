@@ -1,0 +1,435 @@
+{
+ "tested_at": "2026-11-04 23:01:21",
+ "endpoints": [
+  {
+   "source": "原仓库",
+   "name": "老刘备",
+   "used": "https://raw.liucn.cc/box/m.json",
+   "ok": true,
+   "latency": 603,
+   "samples": [
+    746,
+    568,
+    603
+   ],
+   "size": 57874,
+   "kind": "单仓",
+   "sites": 234,
+   "parses": 27,
+   "lives": 3,
+   "urls_n": 0,
+   "score": 221.39303482587064,
+   "err": "",
+   "urls": [
+    "https://raw.liucn.cc/box/m.json",
+    "https://gh-proxy.com/https://raw.liucn.cc/box/m.json"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "小马",
+   "used": "https://szyyds.cn/tv/x.json",
+   "ok": true,
+   "latency": 422,
+   "samples": [
+    422,
+    710,
+    386
+   ],
+   "size": 30571,
+   "kind": "单仓",
+   "sites": 62,
+   "parses": 40,
+   "lives": 10,
+   "urls_n": 0,
+   "score": 144.54976303317534,
+   "err": "",
+   "urls": [
+    "https://szyyds.cn/tv/x.json"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "小盒子单仓",
+   "used": "http://xhztv.top/xhz",
+   "ok": true,
+   "latency": 614,
+   "samples": [
+    588,
+    614,
+    615
+   ],
+   "size": 19728,
+   "kind": "单仓",
+   "sites": 54,
+   "parses": 6,
+   "lives": 1,
+   "urls_n": 0,
+   "score": 50.4885993485342,
+   "err": "",
+   "urls": [
+    "http://xhztv.top/xhz"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "4K小盒子",
+   "used": "http://xhztv.top/4k.json",
+   "ok": true,
+   "latency": 384,
+   "samples": [
+    229,
+    388,
+    384
+   ],
+   "size": 30612,
+   "kind": "单仓",
+   "sites": 53,
+   "parses": 17,
+   "lives": 2,
+   "urls_n": 0,
+   "score": 96.35416666666667,
+   "err": "",
+   "urls": [
+    "http://xhztv.top/4k.json"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "王二小",
+   "used": "https://9280.kstore.vip/newwex.json",
+   "ok": true,
+   "latency": 184,
+   "samples": [
+    183,
+    184,
+    245
+   ],
+   "size": 34333,
+   "kind": "单仓",
+   "sites": 98,
+   "parses": 4,
+   "lives": 2,
+   "urls_n": 0,
+   "score": 288.04347826086956,
+   "err": "",
+   "urls": [
+    "https://9280.kstore.vip/newwex.json",
+    "https://d.kstore.dev/download/9280/wex.json"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "肥猫",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    415
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "https://6296.kstore.vip/facat.json → HTTP 401 | http://肥猫.net/tv → HTTP 404 | http://肥猫.com/ → 返回 HTML 网页（多半是代理/错误页）",
+   "urls": [
+    "https://6296.kstore.vip/facat.json",
+    "http://肥猫.net/tv",
+    "http://肥猫.com/"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "饭太硬",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    201
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://www.饭太硬.net/tv → 返回 HTML 网页（多半是代理/错误页） | http://www.饭太硬.cc/tv → 返回 HTML 网页（多半是代理/错误页） | http://www.饭太硬.xyz/tv → HTTP 503",
+   "urls": [
+    "http://www.饭太硬.net/tv",
+    "http://www.饭太硬.cc/tv",
+    "http://www.饭太硬.xyz/tv"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "讴歌",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    228
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://tv.nxog.top/m/ → HTTP 403 | https://欧歌.v.nxog.top/m/ → SSLError: HTTPSConnectionPool(host='xn--dkw0c.v.nxog.top', port=443): Max retries exceeded",
+   "urls": [
+    "http://tv.nxog.top/m/",
+    "https://欧歌.v.nxog.top/m/"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "拾光多仓",
+   "used": "http://xmbjm.fh4u.org/dc.txt",
+   "ok": true,
+   "latency": 460,
+   "samples": [
+    458,
+    460,
+    463
+   ],
+   "size": 6075,
+   "kind": "多仓",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 54,
+   "score": 176.08695652173915,
+   "err": "",
+   "urls": [
+    "http://xmbjm.fh4u.org/dc.txt"
+   ]
+  },
+  {
+   "source": "原仓库",
+   "name": "挺好分享多仓",
+   "used": "http://ztha.top/TVBox/GYCK.json",
+   "ok": true,
+   "latency": 2593,
+   "samples": [
+    1748,
+    2593,
+    2825
+   ],
+   "size": 3532,
+   "kind": "多仓",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 32,
+   "score": 18.511376783648284,
+   "err": "",
+   "urls": [
+    "http://ztha.top/TVBox/GYCK.json"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "楞牛哥",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    349
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://lengniuge.cf/yingshi → HTTP 503",
+   "urls": [
+    "http://lengniuge.cf/yingshi"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "飯太硬",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    310
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://饭太硬.top/tv → 返回 HTML 网页（多半是代理/错误页）",
+   "urls": [
+    "http://饭太硬.top/tv"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "FongMi",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    1385
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://yingshi.fongmi.eu.org → SSLError: HTTPSConnectionPool(host='yingshi.fongmi.eu.org', port=443): Max retries exceede",
+   "urls": [
+    "http://yingshi.fongmi.eu.org"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "肥貓",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    184
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://我不是.肥猫.love:63/接口禁止贩卖 → HTTP 503",
+   "urls": [
+    "http://我不是.肥猫.love:63/接口禁止贩卖"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "俊哥",
+   "used": "http://home.jundie.top:81/top98.json",
+   "ok": true,
+   "latency": 573,
+   "samples": [
+    2231,
+    573,
+    573
+   ],
+   "size": 16543,
+   "kind": "单仓",
+   "sites": 24,
+   "parses": 15,
+   "lives": 2,
+   "urls_n": 0,
+   "score": 37.52181500872601,
+   "err": "",
+   "urls": [
+    "http://home.jundie.top:81/top98.json"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "小雅",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    212
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "http://drpy.site/js1 → 返回 HTML 网页（多半是代理/错误页）",
+   "urls": [
+    "http://drpy.site/js1"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "菜妮絲 Xbpx",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    348
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "https://tvbox.cainisi.cf → SSLError: HTTPSConnectionPool(host='tvbox.cainisi.cf', port=443): Max retries exceeded wit",
+   "urls": [
+    "https://tvbox.cainisi.cf"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "霜輝月明 Py",
+   "used": null,
+   "ok": false,
+   "latency": null,
+   "samples": [
+    823
+   ],
+   "size": 0,
+   "kind": "-",
+   "sites": 0,
+   "parses": 0,
+   "lives": 0,
+   "urls_n": 0,
+   "score": 0.0,
+   "err": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json → 返回 HTML 网页（多半是代理/错误页） | https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json → HTTP 404 | https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json → HTTP 404 | https://ghfast.top/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json → HTTP 404",
+   "urls": [
+    "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+    "https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+    "https://ghfast.top/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"
+   ]
+  },
+  {
+   "source": "新页面",
+   "name": "高天流雲 Js",
+   "used": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+   "ok": true,
+   "latency": 393,
+   "samples": [
+    471,
+    387,
+    393
+   ],
+   "size": 51621,
+   "kind": "单仓",
+   "sites": 298,
+   "parses": 11,
+   "lives": 2,
+   "urls_n": 0,
+   "score": 398.2188295165394,
+   "err": "",
+   "urls": [
+    "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+   ]
+  }
+ ]
+}

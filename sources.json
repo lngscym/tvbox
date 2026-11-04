@@ -3,6 +3,15 @@
   "prefer_base": ["laoliubei", "xiaoma", "xiaohezi", "4k", "wangerxiao"],
   "sources": [
     {
+      "id": "gaotianliuyun",
+      "name": "高天流雲 Js",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+        "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      ]
+    },
+    {
       "id": "laoliubei",
       "name": "老刘备",
       "urls": [
@@ -40,29 +49,10 @@
       ]
     },
     {
-      "id": "feimao",
-      "name": "肥猫",
+      "id": "jundie",
+      "name": "俊哥",
       "urls": [
-        "https://6296.kstore.vip/facat.json",
-        "http://肥猫.net/tv",
-        "http://肥猫.com/"
-      ]
-    },
-    {
-      "id": "fantaiying",
-      "name": "饭太硬",
-      "urls": [
-        "http://www.饭太硬.net/tv",
-        "http://www.饭太硬.cc/tv",
-        "http://www.饭太硬.xyz/tv"
-      ]
-    },
-    {
-      "id": "ouge",
-      "name": "讴歌",
-      "urls": [
-        "http://tv.nxog.top/m/",
-        "https://欧歌.v.nxog.top/m/"
+        "http://home.jundie.top:81/top98.json"
       ]
     },
     {
