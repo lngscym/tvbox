@@ -1,7 +1,7 @@
 {
  "spider": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
  "wallpaper": "https://深色壁纸.xxooo.cf/",
- "warningText": "个人自用配置 · 基准源「老刘备」· 生成于 2026-11-21 20:20 · 资源均来自互联网公开分享，仅供学习交流",
+ "warningText": "个人自用配置 · 基准源「老刘备」· 生成于 2026-11-22 09:12 · 资源均来自互联网公开分享，仅供学习交流",
  "sites": [
   {
    "key": "csp_douban",
@@ -3734,7 +3734,7 @@
   {
    "name": "初秋语",
    "type": 0,
-   "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+   "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
    "playerType": 2,
    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
